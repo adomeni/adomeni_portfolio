@@ -1,4 +1,7 @@
-# adomeni_portfolio
+# Portfolio Aidan Domenis
+> 2019
+
+---
 
 web-speed-test
 http://webpagetest.org/result/190416_Y9_f4501ec9092572889cfc93867f58cfcd/
@@ -10,7 +13,8 @@ Google Analytics
 https://analytics.google.com/analytics/web/#/report-home/a138451253w199103119p193603318
 
 Mobile Screenshot
-https://raw.githubusercontent.com/adomeni/adomeni_portfolio/master/img/screenshot.JPG
+![](https://raw.githubusercontent.com/adomeni/adomeni_portfolio/master/img/screenshot.JPG
+)
 
 Copyright and Plagarism Notes
 My Bootstrap 4 template is licenced under MIT License

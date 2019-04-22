@@ -877,8 +877,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: rgb(255, 255, 255);
   text-align: center;
   padding-bottom: 5%;
-  margin-left: 10%;
-  margin-right: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
   
 
 }
